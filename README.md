@@ -77,9 +77,3 @@ Here are some planned features to expand and improve TaskWise:
 
 ## Resources
 - [React Native Documentation](https://reactnative.dev/docs/components-and-apis)
-
-## Students names:
-- Fai Abdulaziz bin Onayq
-- Leen Musaad ALbishri
-- Aroub Yusef Alomayreeni
-- Shatha Abdullah Algobishi
