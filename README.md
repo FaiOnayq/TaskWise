@@ -1,6 +1,7 @@
 # TaskWise
 
 ![App Logo](assets/Logo.png)
+![App pages](assets/combine_images.jpg)
 
 ## Description
 
