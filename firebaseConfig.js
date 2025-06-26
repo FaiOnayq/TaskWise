@@ -12,13 +12,7 @@ import { getStorage } from "firebase/storage";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyAgtJPYDHwBGztkS0FwHcwvgB6rE2yxv08",
-  authDomain: "taskwise-e332f.firebaseapp.com",
-  projectId: "taskwise-e332f",
-  storageBucket: "taskwise-e332f.firebasestorage.app",
-  messagingSenderId: "716488336143",
-  appId: "1:716488336143:web:98f0f934a8b65d0e88947a",
-  measurementId: "G-3KJJ9HT526"
+// need to add config data
 };
 
 // Initialize Firebase
